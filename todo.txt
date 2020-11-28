@@ -1,0 +1,75 @@
+* Program Email and Host File Databases
+
+* Program Email and Host File Tables to load their database data
+
+* Program EmailView form to view an Email record
+
+* In Server administration: get ranking points by defacing their MOTD
+
+* In Database: get source code, cc #s, employee data, ... This increases
+  ranking points.
+  
+* Setup system to check for periodic emails for hints.  Instead I'm 
+  going to send new emails after the player completes a mission.
+
+* setup timeouts for servers, cracks, and scans
+
+* show icons for cracked and passwords in the hosts file
+
+* Hacking geekempire.com and alpha.net gets us just enough money
+  to buy passcrack.  After hacking geekempire.com, we will get
+  an email to break into another web site.  This one will have
+  an easy password that pass crack can give a good hint at.
+  
+* Do player ranking
+
+* Make reset game work
+
+* Allow player to enter his screen name
+
+* need 40 or 50 hosts minimum
+
+* Add more timeouts.  I need a timeout on each server.
+
+- New interface: computer form that shows your network tools and 
+  your computer stats.  Main form shows a map or something graphical
+  
+- Option to buy more advanced connect tool that gives you a drop
+  down list of hosts.
+  
+- add more things to do after cracking a host: database view shows
+  clues to other servers.
+  
+- make another ICE version that hides from scans.  Gov't ICE does
+  this too.  You need clues to find these hosts.
+  
+* use string resources instead of hard-coding.
+
+* Govt ICE also prevents NSLookup on a host.
+
+- Randomly assign a host that has a clue about octogon.gov.  Send an
+  email about which host has info on octogon.gov.
+
+* Octogon.gov has a clue about how to find Hexagon.mil
+
+* FiX: What I saw in NS Lookup was that when you go to it and try to type 
+in the name line, it is spaced back some. Then when you try to type with 
+the keyboard, you will see something like it saying 2-ghz like from the 
+cpu update menu or you will see the last thing you typed in there from 
+the previous message like one time I typed alpha.net and came back to NS 
+Lookup, but it was not visible until I clicked on the on screen keyboard 
+it was just some spaces it looked like, and alpha.net was still there. 
+Another time it showed like some commands like that O with the ' above 
+it with like a n or something, like a editor command?[/list]
+
+- Allow user to drop down to lower level tools.
+
+* Make email after downloading UFO data to secretly upload it to a news site.
+
+* Make emails before UFO stuff for uploading payroll and source code
+
+- Make progress bar for money transfer.
+
+- Make timeout turn red less than 10
+
+- Make high scores form (eventually)

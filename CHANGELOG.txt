@@ -1,0 +1,27 @@
+1.01 - 1.04 : bug fixes
+
+1.05 : fixed startup and reset lockup bugs
+
+1.06 : added more hosts, possible bug fixes for scan and crack, random 
+       host passwords, beta test version
+
+1.07 : made all strings resources, added timeouts to server form
+       made GovtICE hide from scan and NSLookup, added more emails,
+       added clue field in database form
+ 
+1.08 : fixed NSLookup bug and timeout bug in PalmOS 3.1
+
+1.09 : added progress bar for database form.  Added borders on Main
+       form.  Made Eye icon
+       
+1.10 : added score field.  Made progress bar disappear.  Ability to
+       delete emails.  Some hosts are traps and subtract money.
+       
+1.11 : some hosts want you to upload payroll data and source code
+       in exchange for money.  Redid user info form to
+       show more data.  Added grafitti shift indicator to 
+       input forms.  Some tools are more expensive.
+       
+1.12 : changed timing for timeout values to be based on a minimum of
+       one second.  Added cheat code capability.  Added progress
+       bar to Accounts Payable form.  Added shutdown form.

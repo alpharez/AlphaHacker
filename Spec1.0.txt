@@ -1,0 +1,59 @@
+- You're a hacker into AlphaNet, a global network like the Internet.
+
+- hostnames map to addresses in the form of nn.nnnn.  Kind
+  of like Netware (net.host).
+  
+- You try to build a host to address list, try to crack your way in
+  using a brute force cracker, then steal money.
+  
+- You use money to buy better HW and SW.
+
+- To start with you have an email program.  You get SPAM mail every
+  once in a blue moon, indicated by a mail icon.  Clicking on the 
+  mail icon brings up your mailbox.  You get solicitations from
+  vendors, which gives you hosts and addresses that you can crack.
+  
+- Cracking a host can get you cash, source code, credit card numbers,
+  clues to other hosts, or software.
+
+- later on you'll get offers to sell code and cc numbers.
+
+- Only the highest level encryption can get you into Corps.
+
+- If you take too long to crack a host, you'll be terminated and a
+  nasty email may get sent by the admin to your ISP.  Too many of 
+  these and you'll be disconnected.
+  
+- host data structure
+
+	netaddr - Int16
+	hostaddr - Int16
+	name - char *
+	code - char *		// password
+	desc - char * 		// description of what they are and do
+	motd - char * 		// Message from admin
+	balance - Int16 	// money
+	hasFW - boolean 	// has a firewall?  if so, connect gives you a connection terminated message.  Need icebreaker to get through.
+	hasAdmin - boolean	// has an admin?  if so, on failure admin sends complaint.
+	
+- Software
+
+	email (free)
+	IRC - lets you get offers for source code and cc#
+	Usenet News 
+	Scanner -- needs lots of ram and a fast CPU
+	Cyber Cracker - simple cracking tool -- needs nice CPU and a bit of RAM
+	Database - for storing host info
+	ICE Breaker - helps to attack hosts with firewalls.
+	Virus
+	Firewall
+	NSlookup (free)
+	DES brute force cracker - ultimate cracking tool // needs tons of ram and super fast CPU
+	
+- NSLookup Table Cols:
+	Cracked Icon, FW Icon, Admin Icon, ...
+	Address
+	Name
+	Password
+
+- Make sure new email comes up in bold

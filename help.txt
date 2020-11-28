@@ -1,0 +1,15 @@
+When you first run AlphaHacker, you'll be asked for a username. Key in what you want to be called and hit Logon. You'll then see the main screen. You have no money and a limited number of tools to start with. 
+
+You'll see two email messages in your email area, and nothing in your hosts file. Across the bottom of the screen are four graphic buttons. These represent your "connect" button for connecting to remote hosts, your NSLookup button for finding the addresses of hostnames or vice versa. This is also where you can save hosts to your hosts file. This file makes it easy to remember the addresses and passwords of hosts, and whether they are active, cracked, shutdown, or if they are protected by ICE (which is a firewall). Next there is a computer store button for upgrading your system. Finally there is a software store for upgrading your Operating System and buying other software, like crackers and scanners. 
+
+CRACKERS - once you have enough money, you can buy this software. It adds a new graphic button on the bottom of the screen. You can use this to "brute force" a password on a system. Each system has a time limit for cracking. If you let the timer get to 0, then the crack attempt is detected, and you are banned from the network. This ends the game. 
+
+SCANNERS - Email messages give you a few hosts to start off with. You'll have to find other hosts by scanning networks. There is also a timer that you can't get down to 0 or the game's over. 
+
+ICE BREAKERS - This is very expensive software that lets you crack into systems that are using an ICE firewall. 
+
+See how many systems you can crack!
+
+Please go to http://www.alpharez.com/ and click "Forum" to post any problems/comments/suggestions.
+
+Thanks.
